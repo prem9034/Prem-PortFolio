@@ -24,7 +24,7 @@ export default function Portfolio() {
       features: [
         'Authentication & Authorization',
         'Employee CRUD Management',
-        'Attendance Management',
+        'Attendance Management ',
         'Leave Management',
         'Payroll Module',
         'Dashboard Analytics',
